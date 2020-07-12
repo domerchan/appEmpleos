@@ -13,6 +13,9 @@
         </ion-list-header>
 
         <ion-item *ngFor='let empleo of empleos |async; trackBy: trackByFn'>
+            <ion-avatar slot="start">
+                <img [src]="empleo.image.url" />
+            </ion-avatar>
             <ion-label (click)="showEmpleo(empleo.uid)">
                 <h3>{{empleo.nombre}}</h3>
             </ion-label>
