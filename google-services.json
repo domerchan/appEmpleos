@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069825950503",
+    "firebase_url": "https://cartera-95fbb.firebaseio.com",
+    "project_id": "cartera-95fbb",
+    "storage_bucket": "cartera-95fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069825950503:android:acb4c0acdef0311ecb9f02",
+        "android_client_info": {
+          "package_name": "ec.edu.ups.cartera2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069825950503-2k4b2c15ndgbit48da3mte6nl04mim5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbAqbsNXMz1oCZWSTL_gVk0FCqdcKxQII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069825950503-2k4b2c15ndgbit48da3mte6nl04mim5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
